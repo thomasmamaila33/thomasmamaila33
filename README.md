@@ -14,7 +14,6 @@ I am ✨ **Onismus Mamaila**✨ , recently completed my IBM Data Analyst Proffes
 - **Healthcare Analytics:** Applying data science to improve patient outcomes.
 - **Generative AI:** Building Gen-AI tools for Retrieval Augmented Generation (RAG) applications.
 
-## 🛠 Skills
 ### 🛠 Skills & Tools:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
