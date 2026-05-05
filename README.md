@@ -15,12 +15,13 @@ I am ✨ **Onismus Mamaila**✨ , recently completed my IBM Data Analyst Proffes
 - **Generative AI:** Building Gen-AI tools for Retrieval Augmented Generation (RAG) applications.
 
 ## 🛠 Skills
+### 🛠 Skills & Tools:
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-008FD3?style=flat&logo=sap&logoColor=white)
 
-- **Programming languages:** Python, SQL, R
-- **Data Visualization/Business Intelligence:** Excel, Tableau, Power BI, Matplotlib, Seaborn, A/B Testing
-- **Data Analysis/Machine Learning/Deep Learning:** Scikit-Learn, TensorFlow, PyTorch, Keras, NumPy, Pandas, NLTK
-- **Big Data/Cloud Computing:** AWS, Git, Snowflake, Agile, Spark, Hadoop, DataBricks
-- **Generative AI/ LLM:** Langchain, Llama, Vector database, Chroma, Retrieval Augmented Generation (RAG), Prompt engineering
 <!-- - 💼 I’m currently pursuing my masters in Business Analytics from University of Maryland, College Park.
 - 🌱 I’m currently learning and sharpening my skills in Machine Learning and Data Science.
 - 🔭 I’m looking for full time opportunity to showcase my work and contribute to the organization.
