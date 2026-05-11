@@ -24,7 +24,7 @@ I am ✨ **Onismus Mamaila**✨ , recently completed my IBM Data Analyst Proffes
 
 ### ✨ Skills:
 
-- **Programming languages:** Python, SQL
+- **Programming languages:** Python, SQL, DAX, M-Language
 - **Data Visualization/Business Intelligence:** Excel, Tableau, Power BI, Matplotlib, Seaborn
 - **Data Analysis/Machine Learning/Deep Learning:** Scikit-Learn, PyTorch, NumPy, Pandas
 - **Big Data/Cloud Computing:** Git, Snowflake, Agile, Spark, Hadoop
