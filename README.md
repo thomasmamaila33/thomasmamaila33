@@ -14,13 +14,21 @@ I am ✨ **Onismus Mamaila**✨ , recently completed my IBM Data Analyst Proffes
 - **Healthcare Analytics:** Applying data science to improve patient outcomes.
 - **Generative AI:** Building Gen-AI tools for Retrieval Augmented Generation (RAG) applications.
 
-### 🛠 Skills & Tools:
+### 🛠 Tools:
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-008FD3?style=flat&logo=sap&logoColor=white)
 
+### ✨ Skills:
+
+Programming languages: Python, SQL
+Data Visualization/Business Intelligence: Excel, Tableau, Power BI, Matplotlib, Seaborn
+Data Analysis/Machine Learning/Deep Learning: Scikit-Learn, PyTorch, NumPy, Pandas
+Big Data/Cloud Computing: Git, Snowflake, Agile, Spark, Hadoop
+Generative AI/ LLM: GitHub Copilot, ChatGPT, Claude, and Gemini
 <!-- - 💼 I’m currently pursuing my masters in Business Analytics from University of Maryland, College Park.
 - 🌱 I’m currently learning and sharpening my skills in Machine Learning and Data Science.
 - 🔭 I’m looking for full time opportunity to showcase my work and contribute to the organization.
