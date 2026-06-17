@@ -36,6 +36,8 @@ I enjoy turning raw, messy data into dashboards and insights that support real d
 
 ## 🎓 Education
 
+- IBM Data Analyst Proffesional Certificate
+- Power Bi Certificate - Udemy
 - B.Sc. Honours in Mining Geology, University of Limpopo (2021)
 - B.Sc. in Geology, University of Limpopo (2019)
 
