@@ -6,6 +6,8 @@
 
 # Hi, I'm Onismus 👋
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## 🚀 About Me
 
 I'm a Data Analyst based in Johannesburg, South Africa, with experience in market research, business intelligence, and data-driven reporting. I recently completed the **IBM Data Analyst Professional Certificate** (via edX, in partnership with IBM), where I built on my skills in data analysis and visualization.
