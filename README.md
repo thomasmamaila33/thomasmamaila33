@@ -31,16 +31,16 @@ I enjoy turning raw, messy data into dashboards and insights that support real d
 ## 📌 Featured Projects
 
 - **[Credit Risk Prediction App](https://github.com/thomasmamaila33/Credit-Risk-Prediction-App)** — A Streamlit web app that predicts loan applicant credit risk (good/bad) using a trained ExtraTrees classifier on the German Credit Risk dataset.
-- **[Customer Trends Data Analysis](https://github.com/thomasmamaila33/Customer-trends-data-analysis-SQL-Python-PowerBI)** — Practical analytics project using SQL, Python, and Power BI on real-world data.
-- **[Credit Card Fraud Risk Analysis](https://github.com/thomasmamaila33/Credit-Card-Fraud-Risk-Analysis---Power-bi)** — Power BI analysis exploring fraud risk patterns in credit card transaction data.
-
-** Try my Credit Risk Prediction App HERE!
+  ** Try my Credit Risk Prediction App HERE! **
 
 <p align="left">
   <a href="https://credit-risk-prediction-app-jofs8t5v28deeqgmcdvxmp.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀_Try_the_App_Live-FF4B4B?style=for-the-badge&logoColor=white&labelColor=FF4B4B" width="400" height="60">
   </a>
 </p>
+
+- **[Customer Trends Data Analysis](https://github.com/thomasmamaila33/Customer-trends-data-analysis-SQL-Python-PowerBI)** — Practical analytics project using SQL, Python, and Power BI on real-world data.
+- **[Credit Card Fraud Risk Analysis](https://github.com/thomasmamaila33/Credit-Card-Fraud-Risk-Analysis---Power-bi)** — Power BI analysis exploring fraud risk patterns in credit card transaction data.
 
 
 ## 🎓 Education
