@@ -44,7 +44,5 @@ I enjoy turning raw, messy data into dashboards and insights that support real d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-onismusmamaila-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onismusmamaila/)
 [![Portfolio](https://img.shields.io/badge/GitHub-thomasmamaila33-181717?style=flat&logo=github&logoColor=white)](https://github.com/thomasmamaila33)
  
- ## Hi, there! It's Onismus! 👋    <div align = 'right'>![](https://komarev.com/ghpvc/?username=thomasmamaila33&color=yellow)</div>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
