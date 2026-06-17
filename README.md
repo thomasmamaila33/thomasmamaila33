@@ -34,6 +34,15 @@ I enjoy turning raw, messy data into dashboards and insights that support real d
 - **[Customer Trends Data Analysis](https://github.com/thomasmamaila33/Customer-trends-data-analysis-SQL-Python-PowerBI)** — Practical analytics project using SQL, Python, and Power BI on real-world data.
 - **[Credit Card Fraud Risk Analysis](https://github.com/thomasmamaila33/Credit-Card-Fraud-Risk-Analysis---Power-bi)** — Power BI analysis exploring fraud risk patterns in credit card transaction data.
 
+** Try my Credit Risk Prediction App HERE!
+
+<p align="left">
+  <a href="https://credit-risk-prediction-app-jofs8t5v28deeqgmcdvxmp.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_Try_the_App_Live-FF4B4B?style=for-the-badge&logoColor=white&labelColor=FF4B4B" width="400" height="60">
+  </a>
+</p>
+
+
 ## 🎓 Education
 
 - IBM Data Analyst Proffesional Certificate
