@@ -32,7 +32,7 @@ I enjoy turning raw, messy data into dashboards and insights that support real d
 
 - **[Credit Risk Prediction App](https://github.com/thomasmamaila33/Credit-Risk-Prediction-App)** — A Streamlit web app that predicts loan applicant credit risk (good/bad) using a trained ExtraTrees classifier on the German Credit Risk dataset.
 
-** Try my Credit Risk Prediction App HERE! **
+**Try my Credit Risk Prediction App HERE!**
 
 <p align="left">
   <a href="https://credit-risk-prediction-app-jofs8t5v28deeqgmcdvxmp.streamlit.app/">
