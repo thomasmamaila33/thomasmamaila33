@@ -51,11 +51,7 @@ I enjoy turning raw, messy data into dashboards and insights that support real d
 - B.Sc. Honours in Mining Geology, University of Limpopo (2021)
 - B.Sc. in Geology, University of Limpopo (2019)
 
-## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-onismusmamaila-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onismusmamaila/)
-[![Portfolio](https://img.shields.io/badge/GitHub-thomasmamaila33-181717?style=flat&logo=github&logoColor=white)](https://github.com/thomasmamaila33)
- 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-onismusmamaila-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onismusmamaila/)
 [![Portfolio](https://img.shields.io/badge/GitHub-thomasmamaila33-181717?style=flat&logo=github&logoColor=white)](https://github.com/thomasmamaila33)
