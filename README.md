@@ -42,6 +42,7 @@ I enjoy turning raw, messy data into dashboards and insights that support real d
 
 - **[Customer Trends Data Analysis](https://github.com/thomasmamaila33/Customer-trends-data-analysis-SQL-Python-PowerBI)** — Practical analytics project using SQL, Python, and Power BI on real-world data.
 - **[Credit Card Fraud Risk Analysis](https://github.com/thomasmamaila33/Credit-Card-Fraud-Risk-Analysis---Power-bi)** — Power BI analysis exploring fraud risk patterns in credit card transaction data.
+- **[Excel End-to-End Analysis: Dashboard](https://github.com/thomasmamaila33/Excel-End-to-End-Analysis-Excel-Dashboard)** — End-to-End Excel Analysis Dashboard to identify which customer segments were most likely to buy, so the marketing team could stop guessing and start targeting.
 
 
 ## 🎓 Education
