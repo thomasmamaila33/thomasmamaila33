@@ -56,5 +56,9 @@ I enjoy turning raw, messy data into dashboards and insights that support real d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-onismusmamaila-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onismusmamaila/)
 [![Portfolio](https://img.shields.io/badge/GitHub-thomasmamaila33-181717?style=flat&logo=github&logoColor=white)](https://github.com/thomasmamaila33)
  
-
+## 📫 How to Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-onismusmamaila-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onismusmamaila/)
+[![Portfolio](https://img.shields.io/badge/GitHub-thomasmamaila33-181717?style=flat&logo=github&logoColor=white)](https://github.com/thomasmamaila33)
+[![Email](https://img.shields.io/badge/Email-thomasmamaila33@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thomasmamaila33@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B27_82_356_3285-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+27823563285)
 
