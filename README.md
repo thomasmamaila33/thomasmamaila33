@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Analyst based in Johannesburg, South Africa, with experience in market research, business intelligence, and data-driven reporting. I recently completed the **IBM Data Analyst Professional Certificate** (via edX, in partnership with IBM), where I built on my skills in data analysis and visualization.
+I'm a Data & BI Analyst based in Johannesburg, South Africa, with experience in market research, business intelligence, and data-driven reporting. I recently completed the **IBM Data Analyst Professional Certificate** (via edX, in partnership with IBM), where I built on my skills in data analysis and visualization.
 
 At **Xylem Water Solutions**, I've maintained and improved Power BI dashboards for mine mapping and market tracking, supported M&A due diligence with clean data integration, and helped grow market coverage from 11% to 27% over 18 months through better data-driven targeting. Earlier, as a Geology Research Intern at **CSIR**, I worked with large mining datasets and contributed to technical reporting.
 
